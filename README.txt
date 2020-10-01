@@ -60,3 +60,5 @@ matplotlib
 
 
 FYI. All returned values were eventually transfered by hand into the folder "CSVresults" as python output can be tedious and table formatting is not only easier in excel but more intuitive.
+
+FYI.2. Pdata is not included in compliance with regulatory boards for shared data. All data is taken from Thomson Reuters and thus will need permission to use this data source.
